@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/2g5KDpP/pexels-theshantanukr-16564261.jpg",
+        "title": "Exploring the Future of AI",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co.com/5vFdvW9/pexels-olly-733872.jpg",
+        "posted_date": "2024-10-20",
+        "reading_time": 5,
+        "hashtags": [
+            "#AI",
+            "#Technology",
+            "#Future"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/F0Jm8rq/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "title": "10 Tips for Better Productivity",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co.com/JcBcmxr/pexels-moose-photos-170195-1036627.jpg",
+        "posted_date": "2024-10-18",
+        "reading_time": 8,
+        "hashtags": [
+            "#Productivity",
+            "#Tips",
+            "#SelfImprovement"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/VwkHTqp/pexels-antonio-batinic-2573434-4164418.jpg",
+        "title": "Understanding React Hooks",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co.com/8NQMB3x/pexels-mastercowley-1300402.jpg",
+        "posted_date": "2024-10-15",
+        "reading_time": 10,
+        "hashtags": [
+            "#React",
+            "#JavaScript",
+            "#WebDevelopment"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/mFsFbkg/pexels-pavel-danilyuk-5807627.jpg",
+        "title": "The Ultimate Guide to Fitness",
+        "author": "Mike Brown",
+        "author_img": "https://i.ibb.co.com/R3KWbX0/pexels-latronico-709188.jpg",
+        "posted_date": "2024-10-12",
+        "reading_time": 7,
+        "hashtags": [
+            "#Fitness",
+            "#Health",
+            "#Wellness"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/1zMd3rW/pexels-naimbic-2291602.jpg",
+        "title": "Beginner\u2019s Guide to Cooking at Home",
+        "author": "Sarah Lee",
+        "author_img": "https://i.ibb.co.com/6R08Xyx/pexels-pixabay-415829.jpg",
+        "posted_date": "2024-10-10",
+        "reading_time": 6,
+        "hashtags": [
+            "#Cooking",
+            "#Food",
+            "#HomeCooking"
+        ]
+    }
+]
